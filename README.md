@@ -1,3 +1,3 @@
 # Titanic47
 
-Model for a Kaggle newbie challenge
+A model for a Kaggle newbie challenge
